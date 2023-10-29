@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ABIR ROY</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-- 🌱 I’m currently learning **from meta**
+- 🌱 I’m currently learning **from Github**
 
 
 <h3 align="left">Languages and Tools:</h3>
